@@ -1,4 +1,4 @@
-# Replace the "ANSWER HERE" for your answer
+
 
 def index_of(target, lst):
     """

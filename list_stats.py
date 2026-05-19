@@ -1,5 +1,3 @@
-from numpy.ma.core import maximum, minimum
-
 
 def find_min(numbers):
     """Dada una lista de numeros, retorna el menor valor."""
